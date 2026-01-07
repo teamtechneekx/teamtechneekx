@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🤝 Follow Us
 - **🐙 GitHub**: [@techneekx](https://github.com/teamtechneekx)
-- **💼 LinkedIn**: [TechNeekX]([https://linkedin.com/in/techneekx](https://www.linkedin.com/company/techneekx/))
+- **💼 LinkedIn**: [TechNeekX](https://www.linkedin.com/company/techneekx/)
 
 ---
 
